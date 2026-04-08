@@ -30,5 +30,20 @@
 
 ---
 
-## 🚀 Next
-- Day 3: Loops
+## 📅 Day 3 - Loops
+### Topics
+- for loop
+- while loop
+- range()
+
+### Programs
+- Sum of first N numbers
+- Reverse a number
+
+---
+
+## 🧠 What I Learned
+- Writing structured Python programs
+- Taking user input and processing it
+- Using conditions for decision making
+- Using loops for repetitive tasks
